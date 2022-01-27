@@ -1,0 +1,50 @@
+
+
+hr {
+    border-top: 3px dashed beige;
+  }
+
+  body {
+    font-family: 'Architects Daughter';
+    background-image: url("img junglee.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header_div {
+    text-shadow: 5px 5px 5px cyan;
+    color: whitesmoke;
+    
+
+}
+
+.header_div p{
+    
+    
+    letter-spacing: 2px;
+    font-size: larger;
+    font-weight: bold;
+    
+}
+
+.main_div button {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+    border-radius: 0;
+}
+
+.copy_right_footer {
+    position:fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 15px;
+    background-color:ghostwhite;
+    line-height: 1.5;
+    text-align: center;
+    text-shadow: 5px 5px 5px purple;
+    font-weight:bold;
+}
+
